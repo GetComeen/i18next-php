@@ -26,7 +26,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "DynamicScreen\\i18next\\Test\\": "tests"
+            "DynamicScreen\\i18next\\": "src"
         }
     }
 }
