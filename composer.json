@@ -1,17 +1,16 @@
 {
-    "name": "aiken/i18next",
+    "name": "dynamicscreen/i18next",
     "description": "PHP class for basic i18next functionality ",
     "version": "0.1.0",
     "keywords": [
         "i18next",
         "i18n"
     ],
-    "homepage": "https://github.com/Mika-/i18next-php",
-    "license": "Beerware",
+    "homepage": "https://github.com/dynamicscreen/i18next-php",
+    "license": "MIT",
     "authors": [
         {
-            "name": "Mika Simanainen",
-            "role": "Developer"
+            "name": "DynamicScreen"
         }
     ],
     "require": {
@@ -22,12 +21,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Aiken\\i18next\\": "src"
+            "DynamicScreen\\i18next\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Aiken\\i18next\\Test\\": "tests"
+            "DynamicScreen\\i18next\\": "src"
         }
     }
 }
