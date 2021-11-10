@@ -2,7 +2,7 @@
 
 require __DIR__ . '/../vendor/autoload.php';
 
-use Aiken\i18next\i18next;
+use DynamicScreen\i18next\i18next;
 
 try {
 
