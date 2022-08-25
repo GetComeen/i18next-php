@@ -1,5 +1,5 @@
 {
-    "name": "dynamicscreen/i18next",
+    "name": "comeen-play/i18next",
     "description": "PHP class for basic i18next functionality ",
     "version": "0.1.0",
     "keywords": [
@@ -21,12 +21,12 @@
     },
     "autoload": {
         "psr-4": {
-            "DynamicScreen\\i18next\\": "src"
+            "ComeenPlay\\i18next\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "DynamicScreen\\i18next\\": "src"
+            "ComeenPlay\\i18next\\": "src"
         }
     }
 }

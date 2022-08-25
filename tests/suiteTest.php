@@ -1,9 +1,9 @@
 <?php
 
-namespace DynamicScreen\i18next\Test;
+namespace ComeenPlay\i18next\Test;
 
 use PHPUnit\Framework\TestCase;
-use DynamicScreen\i18next\i18next;
+use ComeenPlay\i18next\i18next;
 
 final class i18nextTest extends TestCase {
 

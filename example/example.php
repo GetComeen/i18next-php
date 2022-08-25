@@ -2,7 +2,7 @@
 
 require __DIR__ . '/../vendor/autoload.php';
 
-use DynamicScreen\i18next\i18next;
+use ComeenPlay\i18next\i18next;
 
 try {
 

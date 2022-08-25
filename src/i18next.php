@@ -9,7 +9,7 @@
  * ----------------------------------------------------------------------------
  */
 
-namespace DynamicScreen\i18next;
+namespace ComeenPlay\i18next;
 
 class i18next {
 
